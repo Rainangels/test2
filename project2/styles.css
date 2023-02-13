@@ -1,0 +1,2320 @@
+.body {
+  
+    margin: 0;
+    font-family: Nunito Sans, Arial;
+    height: 6589px;
+}
+
+
+
+body * {
+
+    box-sizing: border-box;
+
+}
+
+.contenier {
+   
+    max-width: 1256px;
+    margin: 0 auto;
+    
+    
+
+}
+
+
+
+.button {
+    background-color: #E3B873;
+    box-shadow: #E3B873;
+    border-radius: 2px;
+    outline: 0;
+    border: 0;
+    padding: 0;
+    width: 161px;
+    margin-left: -229px;
+    height: 35.27px;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 25px;
+    cursor: pointer;
+
+}
+
+.heder {
+    background-color: black;
+    display: flex;
+    margin: 0;
+    width: 1440px;
+    height: 83px;
+    padding: 0px;
+   
+
+}
+.logo {
+    color: #E3B873;
+ margin-top: 34px;
+ margin-left: 82px;
+
+   
+}
+
+
+
+
+
+.heder-nav {
+    display: flex;
+    padding: 0px;
+    margin-top: 34px;
+    margin-left: -189px;
+    align-items: center;
+
+
+}
+
+
+.heder-nav1 {
+    margin-right: 30px;
+    list-style: none;
+}
+
+.heder-nav1 a {
+    text-decoration: none;
+    color: white;
+}
+.heder-nav1 a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+
+.hero {
+    background-image: url("heder/img/image 4.3.jpg");
+    background-size: cover;
+    display: flex;
+    width: 1440px;
+    height: 707px;
+    padding-top: 194px;
+    position: relative;
+}
+
+.hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.hero-conteiner {
+    max-width: 1256;
+
+    z-index: 1;
+}
+
+.title {
+
+    margin: 0%;
+    height: fit-content;
+    margin-left: 139px;
+    margin-right: 40.74%;
+    margin-top: -16px;
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 53px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.title-dop {
+    margin: 0%;
+    height: fit-content;
+    margin-left: 139px;
+    margin-right: 40.74%;
+    margin-top: 32px;
+    font-family: Nunito Sans Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+
+    color: #FFFFFF;
+}
+
+.button2 {
+    height: 51px;
+    width: 207px;
+    margin-left: 150px;
+    margin-top: 29px;
+    border-radius: 2px;
+    padding: 0%;
+    border: 0;
+    left: 9.31%;
+    right: 76.32%;
+    top: 67.22%;
+    bottom: 26.33%;
+    background: #E3B873;
+    box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.3);
+    border-radius: 2px;
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Nunito Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.button3 {
+    height: 51px;
+    width: 207px;
+    margin-left: 16px;
+    margin-top: 29px;
+    border-radius: 2px;
+    padding: 0%;
+    border: 1px solid #FFFFFF;
+    left: 9.31%;
+    right: 76.32%;
+    top: 67.22%;
+    bottom: 26.33%;
+    background: rgba(227, 184, 115, 0);
+    box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.3);
+    border-radius: 2px;
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Nunito Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+
+.hero2 {
+    margin:  0;
+    display: flex;
+    background-color: black;
+    width: 1440px;
+    height: 1074px;
+    margin-left: 0px;
+    margin-top: 0px;
+    padding: -7;
+    border: 0;
+}
+
+.here2-title {
+    width: 442px;
+    height: 387px;
+    margin-top: 178px;
+    margin-left: 55px;
+    padding: auto;
+
+}
+
+.title2 {
+    margin-right: 65.64px;
+    width: 253px;
+    margin-left: 5px;
+    margin-bottom: 90.37%;
+    margin-top: -8px;
+    border-radius: nullpx;
+    font-family: 'Yeseva One';
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 37px;
+    letter-spacing: -0.07em;
+    text-align: left;
+    text-transform: uppercase;
+    color: #E3B873;
+}
+
+.text1 {
+    margin-right: 85px;
+    width: 442px;
+    margin-left: 5px;
+    margin-top: -85%;
+    font-family: 'Nunito Sans';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.tetle3 {
+    margin-right: 25px;
+    width: 66px;
+    margin-left: 5px;
+    margin-top: 41.77px;
+    border-radius: nullpx;
+    font-family: 'Yeseva One';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 83.04%;
+    color: #E3B873;
+}
+
+.text2 {
+    margin-right: 41px;
+    width: 161px;
+    margin-left: 5px;
+    margin-top: -82.81%;
+    margin-bottom: 81.17%;
+    font-family: 'Nunito Sans';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.title4 {
+    margin-right: 25px;
+    width: 213px;
+    margin-left: 217px;
+    margin-top: -429.23px;
+    font-family: 'Yeseva One';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 83.04%;
+    color: #E3B873;
+}
+
+.text3 {
+    margin-right: 20.88px;
+    width: 51px;
+    margin-left: 217px;
+    margin-top: -365.43px;
+    margin-bottom: 81.99%;
+    font-family: 'Nunito Sans';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+
+}
+
+.title5 {
+    margin-right: 21.88px;
+    width: 156px;
+    margin-left: 5px;
+    margin-top: -275.83px;
+    margin-bottom: 78.97%;
+    font-family: 'Yeseva One';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-transform: uppercase;
+    color: #E3B873;
+}
+
+.text4 {
+    margin-right: 23.86px;
+    width: 103px;
+    margin-left: 5px;
+    margin-top: -347.99px;
+    margin-bottom: 77.68%;
+    border-radius: nullpx;
+    font-family: 'Nunito Sans';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+}
+
+.title6 {
+    margin-right: 25px;
+    width: 218px;
+    margin-left: 217px;
+    margin-bottom: 78.85%;
+    margin-top: -391.16px;
+    font-family: 'Yeseva One';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-transform: uppercase;
+    color: #E3B873;
+}
+
+.text5 {
+    margin-right: 23.86px;
+    width: 115px;
+    margin-left: 217px;
+    margin-bottom: 77.68%;
+    margin-top: -347.99px;
+    font-family: 'Nunito Sans';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.srok1-conteiner {
+    display: flex;
+    margin-right: 33px;
+    width: 703px;
+    margin-left: 175px;
+    margin-top: 84px;
+    margin-bottom: 569px;
+    border-radius: 0px;
+    padding: 0%;
+
+}
+
+.srok1-conteiner a {
+    text-decoration: none;
+}
+
+.sr1 {
+    margin-right: 16px;
+    width: 194px;
+    margin-left: -167px;
+    margin-top: 7px;
+    margin-bottom: 555px;
+    font-family: 'Yeseva One';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-transform: uppercase;
+    color: #E3B873;
+}
+
+.полоска3 {
+    background-image: url(heder/img/Rectangle16.8.svg);
+    background-size: cover;
+    justify-content: left;
+    display: flex;
+    margin-right: 1.545px;
+    width: 193px;
+    margin-left: -660px;
+    margin-top: 4%;
+    border-radius: 30px;
+    background: #E3B873;
+}
+
+
+.sr2 {
+    margin-right: 16px;
+    width: 194px;
+    margin-left: 105px;
+    margin-top: -570px;
+    margin-bottom: 630px;
+    font-family: 'Yeseva One';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.3);
+}
+
+.sr3 {
+    margin-right: 16px;
+    width: 194px;
+    margin-bottom: 94.91%;
+    margin-left: 282px;
+    margin-top: -650px;
+    margin-bottom: 94.91%;
+    font-family: 'Yeseva One';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.3);
+}
+
+
+
+.img1 {
+    background-image: url(heder/img/home\ 2.1.png);
+    background-size: cover;
+    justify-content: center;
+    display: flex;
+    width: 679px;
+    height: 479.38px;
+    margin-right: 479px;
+    margin-left: -902px;
+    margin-top: 177px;
+    filter: drop-shadow(0px 50px 30px rgba(0, 0, 0, 0.15));
+    border-radius: 0%;
+}
+
+.низ3 {
+    width: 196;
+    margin-right: 66.79;
+    margin-top: 750px;
+    margin-left: -1730px;
+
+}
+
+.pri {
+
+    margin-right: 26px;
+    width: 196px;
+    margin-left: 564px;
+    margin-top: -16px;
+    border-radius: nullpx;
+    font-family: 'Yeseva One';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+
+}
+
+.камера1 {
+    background-image: url(heder/img/Group-sterlka1.svg);
+    background-size: cover;
+    justify-content: left;
+    display: flex;
+    border: none;
+    margin-right: 28px;
+    margin-left: -135px;
+    width: 32px;
+    margin-bottom: 20px;
+    margin-top: 779px;
+    border-radius: [object Object]px;
+}
+
+.полоска1 {
+    background-image: url(heder/img/Rectangle16.8.svg);
+    background-size: cover;
+    justify-content: left;
+    display: flex;
+    margin-right: 1.545px;
+    width: 32px;
+    margin-left: -11px;
+    margin-top: 799px;
+    border-radius: 30px;
+    background: #E3B873;
+
+}
+
+.полоска2 {
+    background-image: url(heder/img/Rectangle16.8.svg);
+    background-size: cover;
+    justify-content: left;
+    display: flex;
+    margin-right: 1.545px;
+    width: 32px;
+    margin-left: -145px;
+    margin-top: 799px;
+    border-radius: 30px;
+    background: #E3B873;
+
+}
+
+.стрелкаправо {
+    background-image: url(/heder/img/strela.svg);
+    margin-right: 1.33px;
+    width: 40.50px;
+    margin-left: -458px;
+    margin-top: 653.34px;
+    border-radius: 0px;
+    background: #FFFFFF;
+
+
+
+}
+
+.стрелкалево {
+    background-image: url(heder/img/strela.svg);
+    margin-right: 1.33px;
+    width: 40.50px;
+    margin-left: 12px;
+    margin-top: 653.34px;
+    border-radius: 0px;
+    background: #FFFFFF;
+}
+
+.точка1 {
+    background-image: url(heder/img/точка1.svg);
+    margin-right: 9.51px;
+    width: 9.56px;
+    margin-left: 21.95px;
+    margin-top: 647.52px;
+    border-radius: 30px;
+    background: #FFFFFF;
+    border-radius: 30px;
+}
+
+.точка2 {
+    background-image: url(heder/img/точка2.svg);
+    margin-right: 9.51px;
+    width: 9.56px;
+    margin-left: 30.95px;
+    margin-top: 647.52px;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 30px;
+}
+
+.точка3 {
+    background-image: url(heder/img/точка2.svg);
+    margin-right: 9.51px;
+    width: 9.56px;
+    margin-left: 34.95px;
+    margin-top: 647.52px;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 30px;
+}
+
+.image6 {
+    background-image: url(heder/img/image\ 6.png);
+    position: relative;
+    width: 817px;
+    margin-right: 436;
+    margin-left: -119px;
+    margin-top: 848px;
+
+}
+
+
+.image6::before {
+
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.кнопкапроиг {
+    background-image: url(./heder/img/Groupкругтруегол\ 8.svg);
+
+
+    position: relative;
+    margin-right: 85px;
+    width: 85px;
+    margin-left: -449px;
+    margin-top: 1021px;
+    border-radius: 50px;
+    background: #E3B873;
+    box-shadow: 0px 5px 30px rgba(227, 184, 115, 0.2);
+}
+
+.треугл {
+    position: relative;
+    background-image: url(./heder/img/Polygon234.svg);
+    margin-right: 27px;
+    width: 21px;
+    margin-left: -135px;
+    margin-top: 1051px;
+    border-radius: 0px;
+    
+}
+
+.hero3 {
+    margin: 676;
+    height: 703px;
+    max-width: 1440px;
+    display: flex;
+    align-items: center;
+    
+
+}
+
+.titep {
+    margin-right: 130.91070556640625px;
+    width: 681px;
+    margin-left: 200px;
+    margin-top: 300px;
+    font-family: 'Nunito Sans';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 37px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #363636;
+
+}
+
+.name1 {
+    margin: auto;
+    width: 769px;
+    margin-left: 207px;
+    margin-top: 79px;
+    border-radius: [object Object]px;
+
+}
+
+.on {
+    border: none;
+    border-bottom: 1px solid rgba(54, 54, 54, 0.3);
+}
+
+.on1 {
+    margin-Left:
+        66.99px;
+    margin-right:
+        45.04px;
+    border: none;
+    border-bottom: 1px solid rgba(54, 54, 54, 0.3);
+
+}
+
+.poh {
+    margin-Left:
+        247.99px;
+    margin-top: -54px;
+    color: rgba(54, 54, 54, 0.5);
+}
+
+.pohp {
+    margin-right: 60px;
+
+    width: 200px;
+    margin-left: 832px;
+    margin-top: -15px;
+    border: 0%;
+    border-radius: 2px;
+    border-radius: 2px;
+    padding: 0%;
+    border: 0;
+    left: 9.31%;
+    right: 76.32%;
+    top: 67.22%;
+    margin-bottom: 26.33%;
+    background: #E3B873;
+    box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.3);
+    border-radius: 2px;
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Nunito Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.strok {
+    margin: auto;
+    display: flex;
+    width: 285px;
+    margin-left: 572px;
+    margin-top: 2083px;
+    border-radius: [object Object]px;
+
+}
+
+.tp {
+
+
+    width: 259px;
+    margin-left: -35px;
+    margin-top: -2403px;
+    font-family: 'Nunito Sans';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    text-decoration: transparent;
+    color: #181818;
+
+}
+
+.recvec {
+    background-image: url(/heder/img/Recvector\ 8.svg);
+    background-size: cover;
+    justify-content: center;
+    width: 18px;
+    margin-left: 526px;
+    margin-top: -2422px;
+    border-radius: 1px;
+    background: #E3B873;
+
+}
+
+.vect {
+    background-image: url(/heder/img/Vector.svg);
+    background-size: cover;
+
+    position: relative;
+    width: 8px;
+    margin-left: 531px;
+    margin-top: -11px;
+    border-radius: 0px;
+    border: 1.5px solid #FFFFFF;
+
+}
+
+.tu {
+
+    width: 257px;
+    margin-left: 523px;
+    margin-top: 76px;
+    font-family: 'Yeseva One';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+    text-transform: uppercase;
+    color: #181818;
+
+}
+
+.molotok {
+    background-image: url(./heder/img/molot.svg);
+
+    background-size: cover;
+    display: flex;
+
+    justify-content: left;
+    height: 28px;
+    width: 27px;
+    margin-left: 634px;
+    margin-top: -12px;
+    margin-bottom: 27.24%;
+    border-radius: 0px;
+    border-radius: [object Object]px;
+
+    object-fit: fill;
+}
+
+.полоска6 {
+    background-image: url(heder/img/Rectangle16.8.svg);
+    background-size: cover;
+    justify-content: left;
+    display: flex;
+    margin-right: 1.545px;
+    width: 32px;
+    margin-left: 680px;
+    margin-top: -355px;
+    border-radius: 30px;
+    background: #E3B873;
+}
+
+.полоска7 {
+    background-image: url(heder/img/Rectangle16.8.svg);
+    background-size: cover;
+    justify-content: left;
+    display: flex;
+    margin-right: 1.545px;
+    width: 32px;
+    margin-left: 590px;
+    margin-top: 0px;
+    border-radius: 30px;
+    background: #E3B873;
+}
+
+.hero4{
+   
+    display: flex;
+    max-width: 1440px;
+    margin-left: -51px;
+  
+}
+.img7 {
+    background-image: url(./heder/img/image7.png);
+    background-size: cover;
+    justify-content: right;
+    position: relative;
+    display: flex;
+    width: 392px;
+    padding: 10px;
+    margin-left: 70px;
+    height: 421px;
+    margin-right: 479px;
+    margin-top: 90px;
+}
+.img8 {
+    background-image: url(./heder/img/image8\ 3.png);
+    background-size: cover;
+    justify-content: center;
+    position: relative;
+    display: flex;
+    padding-top: 300px;
+    width: 392px;
+    height: 421px;
+    margin-left: 508px;
+    margin-right: -861px;
+    margin-top: -422px
+}
+
+.img9 {
+    background-image: url(./heder/img/image9\ 3.png);
+    background-size: cover;
+    justify-content: left;
+    position: relative;
+    display: flex;
+    width: 392px;
+    height: 421px;
+    margin-left: 940px;
+    margin-right: 479px;
+    margin-top: -422px
+}
+
+.img10 {
+    background-image: url(./heder/img/Rectangle14.20.png);
+    background-size: cover;
+    justify-content: center;
+    position: relative;
+    display: flex;
+    padding-top: 300px;
+    width: 330px;
+    height: 286px;
+    margin-left: 105px;
+    margin-right: 105px;
+    margin-top: -143px
+}
+
+.img11 {
+    background-image: url(./heder/img/Rectangle14.20.png);
+    background-size: cover;
+    justify-content: center;
+    position: relative;
+    display: flex;
+    padding-top: 300px;
+    width: 330px;
+    height: 286px;
+    margin-left: 543px;
+    margin-right: 105px;
+    margin-top: -300px
+}
+
+.img12 {
+    background-image: url(./heder/img/Rectangle14.20.png);
+    background-size: cover;
+    justify-content: center;
+    position: relative;
+    display: flex;
+    padding-top: 300px;
+    width: 330px;
+    height: 286px;
+    margin-left: 975px;
+    margin-right: 105px;
+    margin-top: -300px
+}
+
+.txmi {
+    position: relative;
+    width: 228px;
+    height: 21px;
+    margin-top: -270px;
+    margin-left: 165px;
+    font-family: 'Yeseva One';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #363636;
+}
+
+
+.spis {
+    position: relative;
+    width: 367px;
+    height: 178px;
+    margin-left: 120px;
+    font-family: 'Nunito Sans';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #959595;
+
+}
+
+.txmii {
+    position: relative;
+    width: 228px;
+    height: 21px;
+    margin-top: -225px;
+    margin-left: 599px;
+    font-family: 'Yeseva One';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #363636;
+}
+
+.spisk {
+    position: relative;
+    width: 367px;
+    height: 188px;
+    margin-top: -13px;
+    margin-left: 560px;
+    font-family: 'Nunito Sans';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #959595;
+}
+
+.txmiii {
+    position: relative;
+    width: 228px;
+    height: 21px;
+    margin-top: -235px;
+    margin-left: 1030px;
+    font-family: 'Yeseva One';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #363636;
+}
+
+.spiski {
+    position: relative;
+    width: 367px;
+    height: 188px;
+    margin-top: -13px;
+    margin-left: 990px;
+    font-family: 'Nunito Sans';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #959595;
+}
+
+.img14 {
+    background-image: url(./heder/img/Rectangle24.21.png);
+    position: relative;
+    width: 228px;
+    height: 54px;
+    margin-top: 0px;
+    margin-left: 110px;
+}
+
+.txmiiii {
+    position: relative;
+    width: 185px;
+    height: 20px;
+    margin-top: -35px;
+    margin-left: 132px;
+    text-align: center;
+    color: #E3B873;
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.img15 {
+    background-image: url(./heder/img/Rectangle24.21.png);
+    position: relative;
+    width: 228px;
+    height: 54px;
+    margin-top: -59px;
+    margin-left: 545px;
+}
+
+.txmiiiii {
+    position: relative;
+    width: 185px;
+    height: 20px;
+    margin-top: -35px;
+    margin-left: 567px;
+    text-align: center;
+    color: #E3B873;
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.img16 {
+    background-image: url(./heder/img/Rectangle24.21.png);
+    position: relative;
+    width: 228px;
+    height: 54px;
+    margin-top: -59px;
+    margin-left: 980px;
+    color: #E3B873;
+}
+
+.txmiiiiii {
+    position: relative;
+    width: 185px;
+    height: 20px;
+    margin-top: -35px;
+    margin-left: 1003px;
+    text-align: center;
+    color: #E3B873;
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-transform: uppercase;
+    color: white
+}
+
+.img17 {
+    background-image: url(./heder/img/image\ 17.png);
+    background-size: cover;
+    justify-content: center;
+    position: relative;
+    display: flex;
+    width: 1006px;
+    height: 836px;
+    top: -47px
+}
+
+.crug18 {
+    background-image: url(./heder/img/Rectangle\ 18.1.svg);
+    background-size: cover;
+    position: relative;
+    width: 41.76px;
+    height: 41.76px;
+    top: -781.22px;
+    left: 336px;
+
+    border-radius: 30px;
+    background: #E3B873;
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.15);
+
+}
+
+.crug18 {
+    background-image: url(./heder/img/Rectangle\ 18.1.svg);
+    background-size: cover;
+    position: relative;
+    width: 41.76px;
+    height: 41.76px;
+    top: -781.22px;
+    left: 360px;
+
+    border-radius: 30px;
+    background: #E3B873;
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.15);
+
+}
+
+.crug19 {
+    background-image: url(./heder/img/Rectangle\ 18.1.svg);
+    background-size: cover;
+    position: relative;
+    width: 41.76px;
+    height: 41.76px;
+    top: -605.22px;
+    left: 360px;
+
+    border-radius: 30px;
+    background: #E3B873;
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.15);
+
+}
+
+.crug20 {
+    background-image: url(./heder/img/Rectangle\ 18.1.svg);
+    background-size: cover;
+    position: relative;
+    width: 41.76px;
+    height: 41.76px;
+    top: -437.22px;
+    left: 360px;
+
+    border-radius: 50px;
+    background: #E3B873;
+    border: 0px solid #FFFFFF;
+    box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.15);
+
+}
+
+.crug21 {
+    background-image: url(./heder/img/Rectangle\ 18.1.svg);
+    background-size: cover;
+    position: relative;
+    width: 41.76px;
+    height: 41.76px;
+    top: -280.22px;
+    left: 370px;
+
+    border-radius: 30px;
+    background: #E3B873;
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.15);
+
+}
+
+.fra {
+    position: relative;
+    width: 33px;
+    height: 19px;
+    top: -956px;
+    left: 364px;
+    font-family: 'Yeseva One';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white
+}
+
+.fraa {
+    position: relative;
+    width: 33px;
+    height: 19px;
+    top: -776px;
+    left: 364px;
+    font-family: 'Yeseva One';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white
+}
+
+.fraaa {
+    position: relative;
+    width: 33px;
+    height: 19px;
+    top: -602px;
+    left: 364px;
+    font-family: 'Yeseva One';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white
+}
+
+.fraaaa {
+    position: relative;
+    width: 33px;
+    height: 19px;
+    top: -440px;
+    left: 374px;
+    font-family: 'Yeseva One';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white
+}
+
+.txtr {
+    position: relative;
+    width: 320px;
+    height: 39px;
+    top: -1115px;
+    left: 420px;
+    font-family: 'Nunito Sans';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #363636;
+
+}
+
+.txtrr {
+    position: relative;
+    width: 320px;
+    height: 39px;
+    top: -937px;
+    left: 420px;
+    font-family: 'Nunito Sans';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #363636;
+
+}
+
+.txtrrr {
+    position: relative;
+    width: 320px;
+    height: 39px;
+    top: -780px;
+    left: 420px;
+    font-family: 'Nunito Sans';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #363636;
+
+}
+
+.txtrrrr {
+    position: relative;
+    width: 320px;
+    height: 39px;
+    top: -634px;
+    left: 420px;
+    font-family: 'Nunito Sans';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #363636;
+
+}
+
+.hon {
+    background-image: url(./heder/img/Rectangle\ 19.6.png);
+    position: relative;
+    background-size: cover;
+    width: 506px;
+    height: 509px;
+    top: -1321px;
+    left: 800px;
+    background: #131313;
+    box-shadow: 0px 30px 30px rgba(0, 0, 0, 0.05);
+}
+
+.hontex {
+    position: relative;
+    width: 297px;
+    height: 47px;
+    top: -1793px;
+    left: 937px;
+    font-family: 'Nunito Sans';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white
+}
+
+.email {
+    max-width: 506px;
+
+    position: relative;
+    padding: 0px;
+
+
+    top: -1776px;
+    left: 900px;
+
+}
+
+.on2 {
+
+    border: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+    background-color: #131313;
+
+}
+
+.on3 {
+
+    border: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+    background-color: #131313;
+}
+
+.on4 {
+
+    border: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+    background-color: #131313;
+}
+
+.recvec1 {
+    background-image: url(/heder/img/Recvector\ 8.svg);
+    background-size: cover;
+    justify-content: center;
+    width: 18px;
+    margin-left: 1px;
+    margin-top: 9px;
+    border-radius: 1px;
+    background: #E3B873;
+
+}
+
+.vect1 {
+    background-image: url(/heder/img/Vector.svg);
+    background-size: cover;
+
+    position: relative;
+    width: 18px;
+    margin-left: 1px;
+    margin-top: -11px;
+    border-radius: 0px;
+    border: 1.5px solid #FFFFFF;
+
+}
+
+.tpu {
+    width: 283px;
+    margin-top: -13px;
+    left: 3px;
+    font-family: 'Nunito Sans';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    text-decoration: transparent;
+    color: white
+}
+
+.buut {
+    width: 213px;
+    height: 51px;
+    margin-top: 43px;
+    margin-left: 161px;
+    background: #E3B873;
+    box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.15);
+    font-family: 'Nunito Sans';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.svin {
+    width: 441px;
+    height: 72px;
+    top: 606px;
+    left: 866px;
+}
+
+.crug22 {
+    background-image: url(./heder/img/Rectangle\ 18.1.svg);
+    background-size: cover;
+    position: relative;
+    width: 72px;
+    height: 72px;
+    top: -1606px;
+    left: 866px;
+
+    border-radius: 30px;
+    background: #E3B873;
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.15);
+}
+
+.img19 {
+    background-image: url(./heder/img/svin.svg);
+    position: relative;
+    background-size: cover;
+    width: 44px;
+    height: 33px;
+    top: -1658px;
+    left: 880px;
+}
+
+.img20 {
+    background-image: url(./heder/img/$.svg);
+    position: relative;
+    background-size: cover;
+    width: 8px;
+    height: 11px;
+    top: -1676px;
+    left: 896px;
+}
+
+.svintex {
+    width: 344px;
+    height: 47px;
+    margin-top: -1695px;
+    margin-left: 964px;
+    font-family: 'Nunito Sans';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #E3B873;
+    text-shadow: 0px 3px 10px rgba(227, 184, 115, 0.15);
+
+}
+
+.hero5 {
+    display: flex;
+    width: 1256px;
+    height: 864px;
+    margin-top: auto;
+
+}
+
+
+.img21 {
+    background-image: url(./heder/img/image\ 5.1.png);
+    position: relative;
+    background-size: cover;
+    background-color: #131313;
+    width: 1440px;
+    height: 864px;
+    margin-top: -1339px;
+    margin-left: 0%;
+
+}
+
+.img21::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.hio {
+    position: relative;
+    width: 441px;
+    height: 66px;
+    margin-left: 100px;
+    margin-top: -725px;
+    font-family: 'Yeseva One';
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 37px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-transform: uppercase;
+    color: #E3B873;
+
+}
+
+.hioo {
+    position: relative;
+    width: 248px;
+    height: 26px;
+    margin-left: 100px;
+    margin-top: 2px;
+    font-family: 'Nunito Sans';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-decoration: underline;
+    color: #E3B873;
+}
+
+.spio {
+    position: relative;
+    list-style: none;
+    color: white;
+    left: 59px;
+}
+
+.spio1 {
+    width: 74px;
+    height: 24px;
+    padding-top: 18px;
+    font-family: 'Nunito Sans';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.spio2 {
+    width: 156px;
+    height: 44px;
+    margin-top: 47px;
+    font-family: 'Nunito Sans';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.spio3 {
+    width: 56px;
+    height: 22px;
+    padding-top: 8px;
+    font-family: 'Nunito Sans';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.spio4 {
+    width: 147px;
+    height: 45px;
+    padding-top: 30px;
+    font-family: 'Nunito Sans';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.spio5 {
+    width: 147px;
+    height: 53px;
+    padding-top: 45px;
+    font-family: 'Nunito Sans';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.spio6 {
+    width: 147px;
+    height: 24px;
+    padding-top: 46px;
+    font-family: 'Nunito Sans';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.spio7 {
+    width: 253px;
+    height: 24px;
+    padding-top: 47px;
+    font-family: 'Nunito Sans';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.spio8 {
+    width: 299px;
+    height: 24px;
+    padding-top: 51px;
+    font-family: 'Nunito Sans';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.spio9 {
+    width: 92px;
+    height: 24px;
+    padding-top: 40px;
+    font-family: 'Nunito Sans';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.spio10 {
+    width: 121px;
+    height: 24px;
+    padding-top: 31px;
+    font-family: 'Nunito Sans';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.img51 {
+    background-image: url(./heder/img/image\ 51.png);
+    position: relative;
+    background-size: cover;
+    width: 354px;
+    height: 275px;
+    margin-top: -857px;
+    margin-left: 875px;
+}
+
+.img52 {
+    background-image: url(./heder/img/image\ 52.png);
+    position: relative;
+    background-size: cover;
+    width: 354px;
+    height: 624.88px;
+    margin-left: 875px;
+    margin-top: 39px;
+}
+
+.img54 {
+    background-image: url(./heder/img/image\ 54.png);
+    position: relative;
+    background-size: cover;
+    width: 354px;
+    height: 557.88px;
+    margin-left: 500px;
+    margin-top: -868px;
+}
+
+.img53 {
+    background-image: url(./heder/img/image\ 53.png);
+    position: relative;
+    background-size: cover;
+    width: 354px;
+    height: 349.77px;
+    margin-left: 500px;
+    margin-top: 40px;
+}
+
+.zh {
+    width: 257px;
+    height: 26px;
+    margin-left: 561px;
+    margin-top: 69px;
+    font-family: 'Yeseva One';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+    text-transform: uppercase;
+    color: #181818;
+
+}
+
+.grupp43 {
+    background-image: url(./heder/img/Group\ 43.svg);
+    position: relative;
+    background-size: cover;
+    width: 32px;
+    height: 27px;
+    margin-left: 669px;
+    margin-top: 39px;
+    color: rgba(227, 184, 115, 1);
+
+}
+
+.poloska8 {
+    background-image: url(./heder/img/Rectangle16.8.svg);
+    background-size: cover;
+    width: 32px;
+    height: 2.54px;
+    border-radius: 30px;
+    margin-left: 631px;
+    margin-top: -16px;
+    background: #E3B873;
+}
+
+.poloska9 {
+    background-image: url(./heder/img/Rectangle16.8.svg);
+    background-size: cover;
+    width: 32px;
+    height: 1.54px;
+    border-radius: 30px;
+    margin-left: 707px;
+    margin-top: -1px;
+    background: #E3B873;
+}
+
+.zhz {
+    width: 476px;
+    height: 57px;
+    margin-left: 450px;
+    margin-top: 24px;
+    font-family: 'Nunito Sans';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #363636;
+
+}
+.marina{
+    margin-left: 120px;
+}
+
+.imgmar {
+    background-image: url(./heder/img/imagemarina\ 5.png);
+    background-size: cover;
+    width: 76.15px;
+    height: 76.15px;
+    margin-left: 88px;
+    margin-top: 89px;
+    border-radius: 40px;
+}
+
+.nemar {
+    width: 178px;
+    height: 42px;
+    margin-left: 182px;
+    margin-top: -58px;
+    font-family: 'Yeseva One';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.opsmar {
+    width: 324px;
+    height: 239px;
+    margin-left: 90px;
+    font-family: 'Nunito Sans';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #959595;
+}
+
+.rectangle4 {
+    background-image: url(./heder/img/Rectangle\ 4.22.svg);
+    background-size: cover;
+    width: 293.55px;
+    height: 54px;
+    margin-left: 80px;
+    background: #E3B873;
+    box-shadow: 5px 5px 20px rgba(227, 184, 115, 0.5);
+}
+
+.gruppa214 {
+    background-image: url(./heder/img/Group\ 21.4.svg);
+    position: relative;
+    background-size: cover;
+    width: 32.34px;
+    height: 31.34px;
+    margin-left: 99px;
+    margin-top: -40px;
+
+}
+
+.metr {
+    width: 56px;
+    height: 19.48px;
+    margin-left: 147px;
+    margin-top: -28px;
+    font-family: 'Yeseva One';
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-transform: uppercase;
+    color: white
+}
+
+.gruppa224 {
+    background-image: url(./heder/img/Group22.4.svg);
+    position: relative;
+    background-size: cover;
+    width: 32.34px;
+    height: 31.34px;
+    margin-left: 240px;
+    margin-top: -40px;
+
+}
+
+.day {
+    width: 81px;
+    height: 19.48px;
+    margin-left: 287px;
+    margin-top: -28px;
+    font-family: 'Yeseva One';
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-transform: uppercase;
+    color: white
+}
+.sergey{
+    margin-left: 135px;
+}
+.imgser{
+    background-image: url(./heder/img/imageser\ 6.svg);
+    background-size: cover;
+    width: 76.15px;
+    height: 76.15px;
+    margin-left: 510px;
+    margin-top: -383px;
+    border-radius: 40px;
+}
+.nemarr{
+    width: 178px;
+    height: 42px;
+    margin-left: 605px;
+    margin-top: -58px;
+    font-family: 'Yeseva One';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+ 
+}
+.opsmarr{
+    width: 324px;
+    height: 239px;
+    margin-left: 510px;
+    font-family: 'Nunito Sans';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #959595;
+}
+.rectangle5{
+    background-image: url(./heder/img/Rectangle\ 4.22.svg);
+    background-size: cover;
+    width: 293.55px;
+    height: 54px;
+    margin-left: 500px;
+    background: #E3B873;
+    box-shadow: 5px 5px 20px rgba(227, 184, 115, 0.5);
+}
+.gruppa2144{
+    background-image: url(./heder/img/Group\ 21.4.svg);
+    position: relative;
+    background-size: cover;
+    width: 32.34px;
+    height: 31.34px;
+    margin-left: 520px;
+    margin-top: -40px;
+
+}
+.mettr{
+    width: 56px;
+    height: 19.48px;
+    margin-left: 570px;
+    margin-top: -28px;
+    font-family: 'Yeseva One';
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-transform: uppercase;
+    color: white
+}
+.gruppa2244{
+    background-image: url(./heder/img/Group22.4.svg);
+    position: relative;
+    background-size: cover;
+    width: 32.34px;
+    height: 31.34px;
+    margin-left: 650px;
+    margin-top: -40px;
+
+}
+.dayy{
+    width: 81px;
+    height: 19.48px;
+    margin-left: 700px;
+    margin-top: -28px;
+    font-family: 'Yeseva One';
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-transform: uppercase;
+    color: white
+}
+.egor{
+    margin-left: 130px;
+}
+.imgegor{
+    background-image: url(./heder/img/imageegor\ 6.png);
+    background-size: cover;
+    width: 76.15px;
+    height: 76.15px;
+    margin-left: 910px;
+    margin-top: -383px;
+    border-radius: 40px;
+}
+.nemarrr{
+    width: 178px;
+    height: 42px;
+    margin-left: 1008px;
+    margin-top: -58px;
+    font-family: 'Yeseva One';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+ 
+}
+.opsmarrr{
+    width: 324px;
+    height: 239px;
+    margin-left: 910px;
+    font-family: 'Nunito Sans';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #959595;
+}
+.rectanglee5{
+    background-image: url(./heder/img/Rectangle\ 4.22.svg);
+    background-size: cover;
+    width: 293.55px;
+    height: 54px;
+    margin-left: 900px;
+    background: #E3B873;
+    box-shadow: 5px 5px 20px rgba(227, 184, 115, 0.5);
+}
+.gruppa21444{
+    background-image: url(./heder/img/Group\ 21.4.svg);
+    position: relative;
+    background-size: cover;
+    width: 32.34px;
+    height: 31.34px;
+    margin-left: 917px;
+    margin-top: -40px;
+
+}
+.metttr{
+    width: 56px;
+    height: 19.48px;
+    margin-left: 968px;
+    margin-top: -28px;
+    font-family: 'Yeseva One';
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-transform: uppercase;
+    color: white
+}
+.gruppa22444{
+    background-image: url(./heder/img/Group22.4.svg);
+    position: relative;
+    background-size: cover;
+    width: 32.34px;
+    height: 31.34px;
+    margin-left: 1052px;
+    margin-top: -40px;
+
+}
+.dayyy{
+    width: 81px;
+    height: 19.48px;
+    margin-left: 1104px;
+    margin-top: -28px;
+    font-family: 'Yeseva One';
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-transform: uppercase;
+    color: white
+}
+.imgsity{
+    background-image: url(./heder/img/imagesity1\ 7.2.png);
+    background-size: cover;
+    position: relative;
+    width: 1440px;
+    height: 953.9px;
+    margin-top: 352px;
+
+}
+.imgsity::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+}
+.colo{
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    width: 883px;
+    height: 445px;
+    margin-top: -1180px;
+    margin-left: 285px;
+}
+.rost{
+    position: relative;
+    width: 598px;
+    height: 51px;
+    margin-left: 425px;
+    margin-top: 52px;
+    font-family: 'Yeseva One';
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+text-transform: uppercase;
+color: #E3B873;
+
+}
+.gruppsmill{
+    background-image: url(./heder/img/Groupsms\ 3.svg);
+    position: relative;
+    background-size: cover;
+    width: 28px;
+    height: 28px;
+    margin-left: 682px;
+    margin-top: 30px;
+}
+.gruppsmilll{
+    background-image: url(./heder/img/Groupsmr\ 4.svg);
+    position: relative;
+    background-size: cover;
+    width: 28px;
+    height: 28px;
+    margin-left: 744px;
+    margin-top: -27px;
+}
+
+.cart{
+    background-image: url(./heder/img/image\ 7.1.png);
+    position: relative;
+    background-size: cover;
+    width: 925px;
+    height: 464px;
+    margin-left: 255px;
+    margin-top: 43px;
+}
+
+.hero7{
+    margin-top: 0px auto;
+    width: 1256px;
+    position: absolute;
+    
+}
+
+.footer { 
+    max-width: 1440px;
+    background-color: black;
+    
+    display: flex;
+    height: 83px;
+    margin-right: -1380px;
+    margin-top: 693px;
+    padding-top: 0px;
+    align-items: center;
+
+}
+
+
+.heder-navv {
+    display: flex;
+    float: left;
+    padding: 0px;
+    margin-left: 306px;
+    
+
+}
+
+.heder-nav12 {
+    margin-right: 30px;
+    list-style: none;
+    align-items: center;
+}
+
+
+.tre{
+    position: relative;
+    width: 257px;
+    height: 26px;
+    margin-left: 289px;
+    margin-top: -260px;
+    font-family: 'Yeseva One';
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+
+
+
+.neme2{
+    display: flex;
+    margin: auto;
+    width: 100%;
+    align-items: center;
+    padding-top: 200px;
+    margin-left: 156px;
+   
+  
+}
+.n{
+    
+    margin-top: 65px;
+    background-color: #000000;
+    border: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+.e{
+    
+    margin-top: -209px;
+    margin-left: -173px ;
+    background-color: #000000;
+    border: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+.m{
+    margin-left: 191px;
+     margin-top: -209px;
+     background-color: #000000;
+     border: none;
+     border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+    
+        
+.nm{
+    position: relative;
+    color: white;
+    margin-left: 157px;
+    margin-top: 37px;
+}
+.me{
+    position: relative;
+    color: white;
+    margin-left: 523px;
+    margin-top: -37px;  
+}
+
+.en{
+    position: relative;
+    color: white;
+    margin-left: 157px;
+    margin-top: 124px;    
+}
+.btn{
+    margin-left: 354px;
+    background-color: #E3B873;
+    box-shadow: #E3B873;
+    border-radius: 2px;
+    outline: 0;
+    border: 0;
+    padding: 0;
+    width: 200px;
+    height: 51.27px;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 14px;
+    cursor: pointer;
+}
+.logo1{
+    position: relative;
+width: 199px;
+height: 10px; 
+margin-top: -12px;
+margin-left: -1010px;
+
+color: #E3B873;
+align-items: center;
+}
+.buttoon {
+    background-color: #E3B873;
+    box-shadow: #E3B873;
+    border-radius: 2px;
+    outline: 0;
+    border: 0;
+    padding: 0;
+    width: 161px;
+    height: 35.27px;
+    margin-left: 835px;
+    color: white;
+    text-transform: uppercase;
+    margin-top: -4px;
+    cursor: pointer;
+
+}
+
+@media screen and ( max-width: 768px) {
+    
+}
+@media screen and ( max-width: 1300px) {
+    
+}
+
